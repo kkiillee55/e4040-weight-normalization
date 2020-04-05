@@ -1,0 +1,2 @@
+model_checkpoint_path: "wnmobn_saved_variable"
+all_model_checkpoint_paths: "wnmobn_saved_variable"
