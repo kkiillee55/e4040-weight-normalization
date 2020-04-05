@@ -1,0 +1,2 @@
+model_checkpoint_path: "mobn_saved_variable"
+all_model_checkpoint_paths: "mobn_saved_variable"
