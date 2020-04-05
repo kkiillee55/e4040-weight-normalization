@@ -1,0 +1,2 @@
+model_checkpoint_path: "bn_saved_variable"
+all_model_checkpoint_paths: "bn_saved_variable"
